@@ -8,14 +8,14 @@
         height: 200px;
 }
 
-.title {
+.words {
         padding-top: 50px;
         text-align: center;
         font-size: 80px;
         color: #f2f2f2;
 }
 
-#jeden {
+#one {
        	position: relative;
         float: left;
         margin-top: 20px;
@@ -25,12 +25,12 @@
 	background-color: #e6e6e6;
 }
 
-#jeden p {
+#one p {
         text-align: center;
         font-size: 40px;
 }
 
-#jeden img {
+#one img {
          width: 400px;
          height: 250px;
          display: block;
@@ -39,7 +39,7 @@
 }
 
 
-#dwa {
+#two {
         position: relative;
         float: right;
         margin-top: 20px;
@@ -49,12 +49,12 @@
 	background-color: #e6e6e6;        
 }
 
-#dwa p {
+#two p {
         text-align: center;
         font-size: 40px;
 }
 
-#dwa img {
+#two img {
          width: 400px;
          height: 250px;
          display: block;
@@ -63,7 +63,7 @@
 }
 
 
-#trzy {
+#three {
         position: relative;
 	display: inline-block;
         float: left;
@@ -74,12 +74,12 @@
 	background-color: #e6e6e6;  
 }
 
-#trzy p {
+#three p {
         text-align: center;
         font-size: 40px;
 }
 
-#trzy img {
+#three img {
          width: 400px;
          height: 250px;
          display: block;
@@ -87,7 +87,7 @@
          border-radius: 10px;
 }
 
-#cztery {
+#four {
         position: relative;
 	display: inline-block;
         float: right;
@@ -98,12 +98,12 @@
 	background-color: #e6e6e6;  
 }
 
-#cztery p {
+#four p {
         text-align: center;
         font-size: 40px;
 }
 
-#cztery img {
+#four img {
          width: 400px;
          height: 250px;
          display: block;
